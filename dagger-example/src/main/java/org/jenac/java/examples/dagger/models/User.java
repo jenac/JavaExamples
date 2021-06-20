@@ -1,3 +1,4 @@
+package org.jenac.java.examples.dagger.models;
 import lombok.Getter;
 import lombok.Setter;
 
